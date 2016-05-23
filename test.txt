@@ -3,3 +3,4 @@ Git is free software.
 lallall  测试加一行
 test git diff  HEAD -- test.txt！
 啦啦啦啦
+测试分支 branch merge
